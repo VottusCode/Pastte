@@ -1,0 +1,10 @@
+packages/**/build
+packages/**/dist
+packages/**/node_modules
+packages/**/.nuxt
+build
+dist
+node_modules
+.idea
+/db
+*.env

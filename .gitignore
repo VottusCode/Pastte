@@ -1,8 +1,12 @@
-node_modules/
-packages/**/node_modules
+packages/**/build
 packages/**/dist
+packages/**/node_modules
+packages/**/.nuxt
+build
+dist
+node_modules
+.idea
 /db
 *.env
-packages/frontend/.nuxt
+yarn-error.log
 sess_secret
-.idea
